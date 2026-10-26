@@ -8,11 +8,13 @@ Early in the book, the involuntary appeared as one way the question "Why?" is re
 ## The argument, step by step
 1. The (in)voluntary was set aside in §7 as question-begging at that stage (§7).
 2. Now that intentional action has been explained, "voluntary" can be accounted for (§49).
-3. † The voluntary is wider than the intentional: e.g. foreseen consequences of one's intentional action that one could have avoided by giving up the action are voluntary though not intentional (cf. §25); mere bodily movements known without observation can be voluntary or involuntary; everything intentional is voluntary.
-4. † So voluntariness is defined via intentional action and the "Why?" question, not the reverse.
+3. Anscombe sets out the distinction under four headings (§49, pp. 89–90): (1) mere physical movements to which "Why?" applies are voluntary rather than intentional when the answer is e.g. "I was fiddling" or the movements are unconsidered; (2) a previously known concomitant result of one's intentional action, preventable by giving up the action, is voluntary though not intentional, since one rejects "Why?" for it (cf. §25) — though from another point of view it may be called involuntary if much regretted; (3) things that are not one's own doing can be voluntary when they happen to one's delight and one consents; (4) every intentional action is voluntary, though it may be called involuntary, or rather "reluctant", from another point of view.
+4. So "voluntary" applies more widely than "intentional" (Narboux's reading of (1)–(4)).
 
 ## Key examples
-- † Foreseen, accepted side-effects (cf. the man who "didn't care", §25).
+- Known side-effects that one could have prevented by giving up the action (cf. the man who "didn't care", §25).
+- Fiddling; unconsidered movements.
+- Being pushed out in a punt, or sliding down a bank into a party of people, and not minding.
 
 ## What it establishes / hands on
 - Closes the loop opened in §7; completes Anscombe's survey of the concepts adjacent to intention before she returns, in §50, to intention for the future.
@@ -26,4 +28,5 @@ Early in the book, the involuntary appeared as one way the question "Why?" is re
 - **Aucouturier** (same volume): a Thomistic "human action", wider than intentional action, is equivalent to a sense of the voluntary — explaining negligence and omission.
 - **Schwenkler** ([2019](../../sources/secondary/schwenkler-2019-guide.md)): treats §49 briefly as the first part of a "Concluding Discussion" (Ch. 7.1). *Editorial note:* the contrast with Narboux is one of emphasis and placement, not a documented exchange.
 - **Clot-Goudard** (in [Teichmann 2022](../../sources/secondary/teichmann-2022-oxford-handbook-anscombe.md)): Anscombe's action theory largely answers what knowledge accountability requires.
-- *Note:* sources on §49 are thin; the step-by-step moves 3–4 rest on the writer's recollection (†) and should be checked against the book.
+- **Narboux 2020** (*Enrahonar* 64, open access; see [§49](../L3-sections/§49.md) Notes for the URL): a section-by-section commentary on §49 that quotes all four headings; the source for moves 3–4 above. **McGinn** (*Nordic Wittgenstein Review* 2023) quotes headings (2) and (4).
+- *Note:* moves 3–4 were earlier flagged as the writer's recollection; they are now corroborated by Narboux's quotations, with corrections (mere movements are voluntary *rather than* intentional, not "voluntary or involuntary"; heading (3) added). No flagged items remain in this file.

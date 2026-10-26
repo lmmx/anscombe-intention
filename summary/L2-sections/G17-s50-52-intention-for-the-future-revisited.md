@@ -8,7 +8,7 @@ The book began (§1) with three heads — expression of intention for the future
 ## The argument, step by step
 1. The inquiry into intentional action and intention-with-which is complete; return to expressions of intention for the future (§50).
 2. What has been said about intention in present action applies to future intention; a prediction is an expression of intention when the special "Why?" applies to it (§50).
-3. The limiting answer "I just want to, that's all" to "Why are you going to…?" is examined, as the future analogue of "no particular reason" (§51; cf. §17).
+3. The limiting answer "I just want to, that's all" to "Why are you going to…?" is examined, as the future analogue of "no particular reason"; it still invites questions of desirability (§51; cf. §17; [Millgram](../../sources/secondary/millgram-2026-intention-of-intention.md)).
 4. Can one say "I am not going to…" (intention) together with "I am going to…" (belief)? (§52).
 5. Cases where they seem to coexist: the man on the precipice, the man facing torture, St Peter (§52).
 6. Intention and prediction concern "the very same thing": what another knows will not happen is what I said would happen (§52).
