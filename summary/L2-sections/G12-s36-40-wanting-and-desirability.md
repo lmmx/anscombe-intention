@@ -37,6 +37,6 @@ G11 concluded that practical reasoning starts from something wanted, and that th
 - **Structure:** [Millgram 2026](../../sources/secondary/millgram-2026-intention-of-intention.md) holds that desirability characterisations stop one kind of question but not others, and that knowing what one is doing is the desirability characterisation of action as such. [Millgram & Bowman 2026](../../sources/secondary/millgram-bowman-2026-sep-practical-reason-structure-of-actions.md) note that the topic is left incomplete.
 - **Truth of wanting:** [Teichmann 2008](../../sources/secondary/teichmann-2008-philosophy-of-anscombe.md), second-hand.
 - **Not Anscombe's examples:** [Richter n.d.](../../sources/secondary/richter-nd-iep-anscombe.md)'s green books on the roof.
-- **Early critics (new open-access sources, cited by URL in the L3 notes):**
-  - Gosling, "Desirability Characterisations" (*Crítica*, 1969). He argues that the "stopping" claim holds only for questions about the form of an attraction, not for practical reasoning generally (breakfast, sybarite, chess cases).
-  - Platts, "The Object of Desire" (*Crítica*, 1985). He links desirability characterisations to Aquinas's "imagined good" and defends a "halfway house" in which something is seen as desirable without an adequate characterisation.
+- **Early critics:**
+  - [Gosling 1969](../../sources/secondary/gosling-1969-desirability-characterisations.md), "Desirability Characterisations". He argues that the "stopping" claim holds only for questions about the form of an attraction, not for practical reasoning generally (breakfast, sybarite, chess cases).
+  - [Platts 1985](../../sources/secondary/platts-1985-object-of-desire.md), "The Object of Desire". He links desirability characterisations to Aquinas's "imagined good" and defends a "halfway house" in which something is seen as desirable without an adequate characterisation.
