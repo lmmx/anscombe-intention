@@ -29,7 +29,7 @@ Cross-cutting files:
 
 ## Sources
 
-- [`sources/secondary/`](sources/secondary/): 32 secondary accounts. Each has front matter giving author, citation/URL, access date, type, §§ covered and interpretive slant, followed by a faithful paraphrase of the account.
+- [`sources/secondary/`](sources/secondary/): 34 secondary accounts. Each has front matter giving author, citation/URL, access date, type, §§ covered and interpretive slant, followed by a faithful paraphrase of the account.
 - [`sources/EVALUATION.md`](sources/EVALUATION.md): every source assessed for accuracy against Anscombe's contents, coverage, slant, reliability and depth. Includes a ranking, a list of known mis-citations, and a table of which source to trust for what.
 - [`sources/UNAVAILABLE.md`](sources/UNAVAILABLE.md): sources sought but not accessible, with whatever is known about them.
 
@@ -70,7 +70,7 @@ summary/
 sources/
   EVALUATION.md
   UNAVAILABLE.md
-  secondary/  (32 files, <author>-<year>-<short>.md)
+  secondary/  (34 files, <author>-<year>-<short>.md)
 ```
 
 ## Quick index to sections

@@ -27,7 +27,6 @@ These sources were sought but could not be read in full: they are paywalled, blo
 
 | Item | Status | What is known (and from where) |
 |---|---|---|
-| Moran & Stone, "Anscombe on Expression of Intention: An Exegesis" (FHS 2011) | paywalled | From abstracts, as reported in the interpretive-papers search: a process view of intending; rejection of "connectivist" strategies in favour of an "immediate elucidation"; a special (future-directed) and a general use of "expression of intention", the general one being the genus of answers to "Why?". Clark's NDPR review argues this fails for intentions never acted on ([FHS file](secondary/ford-hornsby-stoutland-2011-essays.md)). Richter 2020 (*Enrahonar*, not read) disputes their claim that an intention must be verbalised to be correct or incorrect. |
 | Thompson, *Life and Action* (2008) Part Two; "Anscombe's *Intention* and Practical Knowledge" (FHS 2011) | no open copy; author page 503 | Known through Setiya, Hubbs and Özaltun: practical knowledge is "progressive, imperfective, in medias res"; "naive action theory" ([setiya-2016](secondary/setiya-2016-anscombe-practical-knowledge.md), [hubbs-2016](secondary/hubbs-2016-intentions-and-commands.md), [ozaltun-2016](secondary/ozaltun-2016-practical-knowledge-section-45.md)). |
 | Rödl, *Self-Consciousness* (2007), ch. on practical self-consciousness; "Two Forms of Practical Knowledge and Their Unity" (FHS 2011) | paywalled | Setiya reports Rödl among those who hold practical knowledge to be always the cause of what it knows. Rödl reconciles Anscombe with Kant ([haddock-wiseman file](secondary/haddock-wiseman-2022-anscombean-mind.md)). |
 | Ford, "Action and Generality" (FHS 2011); "The Arithmetic of Intention" (2015); "The Province of Human Agency" (2018) | paywalled; dissertation page blocked | "Arithmetic" is known only through Setiya 2016, fn. 12. |
@@ -48,6 +47,10 @@ These sources were sought but could not be read in full: they are paywalled, blo
 | Lucy Campbell, "Two Notions of Intentional Action? Solving a Puzzle in Anscombe's *Intention*," *BJHP* (2018) | not reached | none |
 | Newstead, "Interpreting Anscombe's *Intention* §32ff" | PhilArchive 403 | Possibly important for §32 onward. |
 | Wiseman, "The Intended and Unintended Consequences of *Intention*" (2016) | Durham repository 403 | Listed on Frey's 2016 syllabus. Its reading of the book as ethically and politically driven (Truman) is reported in the [Schwenkler](secondary/schwenkler-2019-guide.md) and [FHS](secondary/ford-hornsby-stoutland-2011-essays.md) files. |
+
+## Found later
+
+- **Moran & Stone (2009/2011)** turned out to be available as the author's PDF. It is now a saved source: [moran-stone-2011-expression-of-intention.md](secondary/moran-stone-2011-expression-of-intention.md). It confirms the abstract-based report in substance, with two corrections: their term is "connective" (not "connectivist") strategies, and their view of intending is a "progressive spectrum"/performance view rather than one they call a "process" view.
 
 ## Teaching materials, talks and podcasts
 

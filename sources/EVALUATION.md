@@ -2,7 +2,7 @@
 
 [README](../README.md) · [Unavailable sources](UNAVAILABLE.md) · [Debates](../debates.md)
 
-This file assesses the 32 secondary accounts saved in [`secondary/`](secondary/). For each one it gives the source's accuracy, coverage, interpretive slant, reliability and depth, and says what it can be trusted for.
+This file assesses the 34 secondary accounts saved in [`secondary/`](secondary/). For each one it gives the source's accuracy, coverage, interpretive slant, reliability and depth, and says what it can be trusted for.
 
 ## How the accounts were checked
 
@@ -26,6 +26,8 @@ Tiers are about what a reader of *Intention* can rely on, not about philosophica
 | [Schwenkler 2019, *Anscombe's Intention: A Guide*](secondary/schwenkler-2019-guide.md) | book (abstracts, headings and reviews only) | all; chapter→§ mapping verified | sympathetic but critical; Thomist on practical knowledge | 4 for structure | The §-grouping of the book, which this repo's [parts](../summary/L1-parts.md) follow. His substantive readings are known only second-hand. |
 | [Speaks 2009, guide to §§1–31](secondary/speaks-2009-guide-1-31.md) | seminar guide | §§1–31 | critical; friendly to causal theory | 4 | Structure of §§1–31 and the standard objections. Not a sympathetic exposition: he turns §§6–8 into a biconditional and judges it to fail. Thin on §§13–14, 18, 22, 24–25 and 31; leaves out the §22 test and the pump case; uses a knee-jerk reflex where Anscombe uses the falling-asleep jerk (§8). |
 | [Holton 2025, Cambridge lectures](secondary/holton-2025-cambridge-lectures.md) | lecture handouts | §§1–31, 45, 47–48, 52 | analytic; independent-minded | 4 | Mapping the three heads; where the "Why?" chain stops (§§23–26); §§29, 31 and 45; the §47 lists; the §52 cases. *Slips:* puts the "I didn't care…" answer in §24 (it is §25). Presents §31 as "the solution", where Anscombe's contents call it an attempted solution and note its inadequacy. His presupposition-failure reading of §31 is his own, and he says so. Nothing on §§33–44. |
+| [Moran & Stone 2009/2011, "Anscombe on Expression of Intention: An Exegesis"](secondary/moran-stone-2011-expression-of-intention.md) | article (author PDF, full text, 44 pp.) | §§1–4, 22, 31, 47, 50–52 | "new Anscombean" (with Thompson and Ferrero); against the Davidson/Bratman "Transformed Anscombe" and against the "direction of fit" reading, which they trace to Platts 1979 | 4 | The unity of the three heads: a general use (the genus of answers to "Why?") and a special (future) use of "expression of intention", and "immediate elucidation" versus "connective" strategies. Also: the p. 5 animal passage and pp. 86–87 (§47); contradiction (p. 55); the passages on pp. 90 and 92. Holds a performance/"progressive spectrum" view of intending. Their own word is not "process", although earlier reports used it. |
+| [Narboux 2020, "Anscombe's Account of Voluntary Action in *Intention*"](secondary/narboux-2020-anscombes-account-of-voluntary-action.md) | article (*Enrahonar* 64, open access) | §49 in full; background on §§5, 7, 17, 25, 30 | Thomist–Wittgensteinian; reads §49 through Anscombe's later papers and Aquinas | 5 for §49 | The only detailed treatment of §49 (quotes its four headings). Also good on the "direction of intention" critique, which he places in §25. A few garbled page references. Distinct from his 2022 chapter in *The Anscombean Mind*. |
 | [Sandis 2015, "Anscombe's Intentions"](secondary/sandis-2015-klesis-anscombes-intentions.md) | article | textual variants in §§2, 6, 17, 19, 33–34 | textual / philological | 4 (narrow) | Which edition says what; the important 1963 addition to §33 (the "difference of form"; idle vs proper practical syllogisms); citation practice. One correction from Özaltun's cluster was applied to its §2 entry. |
 
 ### Tier 2: reliable but partial, or reliable with stated caveats
@@ -111,7 +113,7 @@ These are set out neutrally in [debates.md](../debates.md). In headline form:
    - Doubtful in itself, given proprioception (Holton; Wilson & Shpall).
    - Not the defining mark (Frey; Campbell).
 6. **The unity of the three heads (§1).**
-   - The general sense of "expression of intention" (Moran & Stone).
+   - The general sense of "expression of intention", with "immediate elucidation" rather than "connective" strategies ([Moran & Stone](secondary/moran-stone-2011-expression-of-intention.md)).
    - Intention in action (Capps; Thompson; Setiya).
    - Not Anscombe's question at all (Wiseman; McGinn).
 7. **Foresight and intention (§25).** Schwenkler retracts his guide's means–end test. Wiseman applies the means–end test to Truman.
@@ -126,13 +128,13 @@ These are set out neutrally in [debates.md](../debates.md). In headline form:
 | §§1–31 section by section | [Speaks](secondary/speaks-2009-guide-1-31.md) (critical) together with [Holton](secondary/holton-2025-cambridge-lectures.md) (more sympathetic), cross-checked against the contents |
 | §§28–32 and §§45–48 | [Setiya 2016](secondary/setiya-2016-anscombe-practical-knowledge.md), [Özaltun](secondary/ozaltun-2016-practical-knowledge-section-45.md), [Small](secondary/small-2020-action-practical-knowledge.md), [Campbell 2022](secondary/campbell-2022-practical-knowledge-practical-truth.md) |
 | §§33–43 (practical reasoning) | [Gosling](secondary/gosling-1969-desirability-characterisations.md), [Elliott](secondary/elliott-2016-anscombe-practical-truth.md), [Platts](secondary/platts-1985-object-of-desire.md) on §37, [Sandis](secondary/sandis-2015-klesis-anscombes-intentions.md) on the 1963 §33 changes, [Frey](secondary/frey-2016-action-practical-knowledge-good.md). *Free coverage here is thin.* |
-| §§49–52 | [Holton](secondary/holton-2025-cambridge-lectures.md) on §52, [Setiya SEP](secondary/setiya-2022-sep-intention.md), [Millgram](secondary/millgram-2026-intention-of-intention.md), [Haddock & Wiseman](secondary/haddock-wiseman-2022-anscombean-mind.md) on §49 |
+| §§49–52 | [Narboux 2020](secondary/narboux-2020-anscombes-account-of-voluntary-action.md) on §49, [Moran & Stone](secondary/moran-stone-2011-expression-of-intention.md) on §§50–52, [Holton](secondary/holton-2025-cambridge-lectures.md) on §52, [Setiya SEP](secondary/setiya-2022-sep-intention.md), [Millgram](secondary/millgram-2026-intention-of-intention.md), [Haddock & Wiseman](secondary/haddock-wiseman-2022-anscombean-mind.md) on §49 |
 | How the field has read the book | [FHS 2011](secondary/ford-hornsby-stoutland-2011-essays.md), [Haddock & Wiseman 2022](secondary/haddock-wiseman-2022-anscombean-mind.md), [Wilson & Shpall](secondary/wilson-shpall-2012-sep-action.md) (the older picture) |
 | The ethical and political background | [Wiland & Driver](secondary/wiland-driver-2022-sep-anscombe.md), [Schwenkler interview](secondary/schwenkler-c2020-316-interview.md), [Wiseman 2025](secondary/wiseman-2025-philosophy-talk.md) |
 | Edition and citation questions | [Sandis](secondary/sandis-2015-klesis-anscombes-intentions.md) |
 
 ## Gaps in the saved material
 
-- The core "Pittsburgh–Chicago" texts were not read in full: Thompson's *Life and Action* and his 2011 essay, Rödl, Ford, Moran & Stone, Haddock, Hornsby, Hursthouse and Vogler. Their views enter the repo only as other commentators report them, and are labelled that way. See [UNAVAILABLE.md](UNAVAILABLE.md).
+- Of the core "new Anscombean" texts, only Moran & Stone was read in full (found during the verification pass). Not read: Thompson's *Life and Action* and his 2011 essay, Rödl, Ford, Haddock, Hornsby, Hursthouse and Vogler. Their views enter the repo only as other commentators report them, and are labelled that way. See [UNAVAILABLE.md](UNAVAILABLE.md).
 - No free section-by-section commentary exists for §§33–44. Gosling (1969) is the fullest open-access critique of §§35–40. The L3 files for §§34, 36, 43 and 44 rely more on Anscombe's contents line and on the writers' recollection of the text, which is marked "†". Two further leads were found but not read: Kunz, "An Examination of Wanting in Anscombe's *Intention*" (MA thesis, Mississippi 2013; abstract only), and Bond, "On Desiring the Desirable" (1981; paywalled).
 - Davidson's own papers were not saved (copyright). His objections appear as Setiya, Campbell and Özaltun report them.
