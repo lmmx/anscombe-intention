@@ -24,7 +24,7 @@ Cross-cutting files:
 
 - **§ references** are to Anscombe's numbered sections. Pages, where given, are those of the 2nd edition (1963), which the Harvard 2000 paperback reproduces. They come from Anscombe's analytic table of contents. Pagination in the 1957/58 printings diverges from p. 59 onward; see [Sandis](sources/secondary/sandis-2015-klesis-anscombes-intentions.md).
 - **Anscombe vs commentators.** Statements of what the text says carry § references. Statements of what a commentator says cite the commentator's file in [`sources/secondary/`](sources/secondary/). The two are kept in separate subsections of each L3 and L2 file.
-- **† marker.** In L2 and L3 files, "†" marks a detail drawn from the writer's recollection of Anscombe's text that could not be corroborated from her contents line or a saved secondary source. Check those against the book.
+- **† marker and verification.** In drafting, "†" marked details recalled from Anscombe's text that her contents line or a saved source could not corroborate. A later verification pass checked every such item against open sources, including a course-hosted copy of the 1963 text of §§1–18 (consulted, not reproduced). Each item was then corroborated and cited, softened, or removed. No uncorroborated claims about the text remain, and each L3 file's "Notes and uncertainties" records what was checked, corrected or removed.
 - **(reported)** in [debates.md](debates.md) means a view known only through another commentator's report (see [UNAVAILABLE](sources/UNAVAILABLE.md)).
 
 ## Sources
