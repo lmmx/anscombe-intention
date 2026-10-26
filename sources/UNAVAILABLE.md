@@ -48,6 +48,14 @@ These sources were sought but could not be read in full: they are paywalled, blo
 | Newstead, "Interpreting Anscombe's *Intention* §32ff" | PhilArchive 403 | Possibly important for §32 onward. |
 | Wiseman, "The Intended and Unintended Consequences of *Intention*" (2016) | Durham repository 403 | Listed on Frey's 2016 syllabus. Its reading of the book as ethically and politically driven (Truman) is reported in the [Schwenkler](secondary/schwenkler-2019-guide.md) and [FHS](secondary/ford-hornsby-stoutland-2011-essays.md) files. |
 
+## Second search round (verification pass)
+
+A further targeted search for legitimately hosted copies was made for Thompson ("Anscombe's *Intention* and Practical Knowledge", FHS 2011, ch. 7), Rödl ("Two Forms of Practical Knowledge and Their Unity", FHS 2011, pp. 211–241; the Basel eDoc record has no full text), Vogler ("Anscombe on Practical Inference", in Millgram (ed.), *Varieties of Practical Reasoning*, MIT 2001), Hursthouse ("Intention", 2000), and Davidson ("Actions, Reasons, and Causes", *Journal of Philosophy* 60, 1963; reprinted in *The Essential Davidson*). It found no open copies; only bibliographic records, publisher pages and subscription services turned up. One further lead was blocked:
+
+| Item | Status | What is known |
+|---|---|---|
+| Will Small, "The Practicality of Practical Inference" (in Haddock & Wiseman (eds.), *The Anscombean Mind*, 2022) | PhilArchive (SMATPO-24) and academia.edu are open access, but both returned a Cloudflare bot check | Per the search abstract, it argues that the distinctive use (teleology) of practical reasoning explains its distinctive formal features. This bears on the §33 "difference of form". It is likely to be the most useful open source for §§33–44 if it can be downloaded in a browser. |
+
 ## Found later
 
 - **Moran & Stone (2009/2011)** turned out to be available as the author's PDF. It is now a saved source: [moran-stone-2011-expression-of-intention.md](secondary/moran-stone-2011-expression-of-intention.md). It confirms the abstract-based report in substance, with two corrections: their term is "connective" (not "connectivist") strategies, and their view of intending is a "progressive spectrum"/performance view rather than one they call a "process" view.
