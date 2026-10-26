@@ -2,7 +2,7 @@
 
 [README](../README.md) · [Unavailable sources](UNAVAILABLE.md) · [Debates](../debates.md)
 
-This file assesses the 34 secondary accounts saved in [`secondary/`](secondary/). For each one it gives the source's accuracy, coverage, interpretive slant, reliability and depth, and says what it can be trusted for.
+This file assesses the 35 secondary accounts saved in [`secondary/`](secondary/). For each one it gives the source's accuracy, coverage, interpretive slant, reliability and depth, and says what it can be trusted for.
 
 ## How the accounts were checked
 
@@ -53,6 +53,7 @@ Tiers are about what a reader of *Intention* can rely on, not about philosophica
 |---|---|---|
 | [Setiya 2008/09, "Practical Knowledge"](secondary/setiya-2008-practical-knowledge.md) | 4 for the debate, 2 as exegesis | Uses Anscombe as a starting point for cognitivism. Covers Davidson's carbon-copier, knowing how, and Grice, Velleman and Paul. |
 | [Platts 1985, "The Object of Desire"](secondary/platts-1985-object-of-desire.md) | 2 for *Intention* | Accurate, checked quotations and pages for §37 ("fair nonsense", the saucer of mud); links desirability characterisations to Aquinas's "imagined good"; raises the "halfway house" objection. A neo-Aristotelian moral realist. Read in part (pp. 3–14 closely). |
+| [Speaks 2004, notes on Davidson's "Actions, Reasons, and Causes"](secondary/speaks-2004-davidson-actions-reasons-causes.md) | 2 | A faithful outline of Davidson's case (primary reasons, the "because" argument, the replies to the "logical connection" objection, privileged access, the climber), from the same seminar as Speaks's Anscombe guide. Sympathetic to Davidson but critical. Names Anscombe only once (non-observational knowledge, §8/§28). Best for the causalist frame against which §§5–16 and 23–26 are often read. It stands in for Davidson's paper, which is not saved. |
 | [Campbell 2024, structural challenge](secondary/campbell-2024-practical-knowledge-structural-challenge.md) | 2 as exegesis | A map of the cognitivism/propositionalism literature; few § references (by her own account it is not exegesis). |
 | [Wiseman 2016, *Guidebook*](secondary/wiseman-2016-guidebook.md) | 2–3 | Book known only through its contents list, the publisher's description and McGinn's discussion. Good for her thesis: a "grammatical investigation" organised by the three heads rather than by § order. There is no chapter→§ mapping; the one in the file is inferred and labelled as such. |
 | [Wiseman 2025, Philosophy Talk](secondary/wiseman-2025-philosophy-talk.md) | 2 | A radio transcript. Wiseman's own statements are reliable as statements of her view (the three heads as three contexts, not three things; §4; §47). A host garbles the pump case, and several quotations are unverified. |
