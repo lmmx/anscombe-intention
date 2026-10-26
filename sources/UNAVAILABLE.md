@@ -8,7 +8,7 @@ These sources were sought but could not be read in full: they are paywalled, blo
 
 | Item | Status | Notes |
 |---|---|---|
-| Anscombe, *Intention*, 1st ed. (Blackwell 1957); 2nd ed. (Blackwell 1963; Harvard 2000) | archive.org copies `intention0000unse` (1957) and `intention00ansc_0` (1963) are lending-restricted | Section boundaries and topics were checked against the 2nd edition's analytic table of contents (pp. v–ix of the Harvard 2000 printing), which is available as a front-matter PDF hosted by UIC. For variants between editions, see [Sandis](secondary/sandis-2015-klesis-anscombes-intentions.md). |
+| Anscombe, *Intention*, 1st ed. (Blackwell 1957); 2nd ed. (Blackwell 1963; Harvard 2000) | archive.org copies `intention0000unse` (1957) and `intention00ansc_0` (1963) are lending-restricted | Section boundaries and topics were checked against the 2nd edition's analytic table of contents (pp. v–ix of the Harvard 2000 printing), which is available as a front-matter PDF hosted by UIC. For variants between editions, see [Sandis](secondary/sandis-2015-klesis-anscombes-intentions.md). A course-hosted copy of the 1963 text of §§1–18 (http://fitelson.org/proseminar/anscombe.pdf) was consulted during the verification pass to check details in the L3 files for §§1–18. Its readings match the 1963 variants Sandis records. The text was consulted, not reproduced; no extracts are committed. No legitimately accessible copy of §§19–52 was found. |
 
 ## Book-length guides and collections
 

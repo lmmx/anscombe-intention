@@ -7,13 +7,13 @@ After the negative work of §§5–11 and the positive classification of motives
 
 ## The argument, step by step
 1. **Summary (§16).** "Why?" is refused when the agent did not know he was doing the thing, knew it only by observation, or can answer only with evidence or a (mental) cause. Where it applies, the answer may cite past history taken as good or harm, give an interpretation, or mention something future.
-2. **Nil answers accept the question (§17).** "For no particular reason" is like answering "None" to how much money is in one's pocket, not like having no pocket; so intentional action can be for no reason. "I don't know why I did it" likewise does not refuse the question.
+2. **Nil answers accept the question (§17).** "For no particular reason" is like answering "None" to how much money is in one's pocket, not like having no pocket; so intentional action can be for no reason. "I don't know why I did it" likewise does not refuse the question, though Anscombe calls it "a curious intermediary case" in which "Why?" both has and has not application (see [§17](../L3-sections/§17.md) Notes).
 3. **But not always intelligibly (§18).** That "no particular reason" is sometimes allowable does not mean it always makes sense; where it does not, the failure is that we cannot understand the man, not that a form of words is barred by language.
 4. **Identification (§18).** The special "Why?" is the one that looks for an answer within this range; the range defines the class of intentional actions — a characterisation by the logic of a question, not by a psychological item.
 
 ## Key examples
 - "None" in one's pocket vs. having no pockets (§17, per Holton and Small).
-- †Spreading all the green books in the house on the roof "for no particular reason" (§18).
+- Spreading all the green books in the house on the roof "for no particular reason" (§18; corroborated, see [§18](../L3-sections/§18.md) Notes).
 
 ## What it establishes / hands on
 - A **complete first characterisation** of intentional action by the range of answers to "Why?" (§18).
@@ -35,4 +35,4 @@ After the negative work of §§5–11 and the positive classification of motives
 - [Campbell 2022](../../sources/secondary/campbell-2022-practical-knowledge-practical-truth.md): acts for no particular reason manifest neither practical truth nor falsity.
 - §17's 1963 wording change is stylistic ([Sandis 2015](../../sources/secondary/sandis-2015-klesis-anscombes-intentions.md)).
 
-† = writer's recollection of the text, not corroborated by the contents line or a saved source; check against the book.
+No † items remain in this group file. The green-books example was corroborated as in §18 in the verification pass from the course-hosted copy of the 1963 text of §§1–18 (http://fitelson.org/proseminar/anscombe.pdf; identifiable as the 1963 text by the variants Sandis records, e.g. "imperative", "most of the earliest historical traditions", "To clarify"). The characterisation of "I don't know why I did it" in [§17](../L3-sections/§17.md) was refined: the question both has and has not application.

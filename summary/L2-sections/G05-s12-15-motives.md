@@ -7,7 +7,7 @@ G04 separated mental causes from intentions. The remaining positive answers to "
 
 ## The argument, step by step
 1. **Motive vs. intention, popularly (§12).** Philosophers separate motives sharply from intentions and call them causes; ordinary usage makes "motive" the wider notion, including intention with which.
-2. **A motive is not a cause (§12).** Giving a motive does not report what made one act; it helps us understand (†"see the action in this light").
+2. **A motive is not a cause (§12).** Giving a motive does not report what made one act; it helps us understand; it "interprets" the action (§12). The formula "see the action in this light" belongs to §13 (corrected in the verification pass; see [§12](../L3-sections/§12.md) Notes).
 3. **Kinds of non-future motive (§13).** Backward-looking motives cite a past ground (revenge: "because he killed my brother"); motive-in-general ("out of friendship") is interpretative.
 4. **The mark of backward-looking motives (§14).** They differ from mental causes because they involve the notions of good and harm: the act is a response to something taken as a benefit or injury.
 5. **Concession (§15).** The cause/reason line is not everywhere sharp: "I put it down because he told me to" may fall on either side.
@@ -35,4 +35,4 @@ G04 separated mental causes from intentions. The remaining positive answers to "
 - [Holton 2025](../../sources/secondary/holton-2025-cambridge-lectures.md): §12 is where intention-with-which first enters the "Why?" inquiry.
 - The whole group overlaps with the 1957 Aristotelian Society paper ([Sandis 2015](../../sources/secondary/sandis-2015-klesis-anscombes-intentions.md)); [Speaks 2009](../../sources/secondary/speaks-2009-guide-1-31.md) passes over §§13–14.
 
-† = writer's recollection of the text, not corroborated by the contents line or a saved source; check against the book.
+No † items remain in this group file. The "see the action in this light" formula was located in §13, not §12, in the course-hosted copy of the 1963 text of §§1–18 (http://fitelson.org/proseminar/anscombe.pdf; identifiable as the 1963 text by the variants Sandis records, e.g. "imperative", "most of the earliest historical traditions", "To clarify").

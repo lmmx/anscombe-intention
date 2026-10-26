@@ -16,7 +16,8 @@ G03 left a residue: movements whose occurrence *and* cause the agent knows witho
 ## Key examples
 - "I saw such-and-such and it made me jump"; a face at the window (p. 16, per Holton and Frey).
 - Gasp at a snake's hiss (Thompson's illustration).
-- †The child terrified of red stuff on the stairs after the nursemaid's remark: object vs. mental cause of fear (§10).
+- The child who feared the red stuff on a turn in a stairway after misunderstanding his nurse's remark: object vs. mental cause of fear (§10; corroborated, see [§10](../L3-sections/§10.md) Notes).
+- "The martial music excites me, that is why I walk up and down" as a mental cause of action (§10, not §11; see [§11](../L3-sections/§11.md) Notes).
 
 ## What it establishes / hands on
 - A sharpened negative boundary: answers giving evidence or a (mental) cause do not grant "Why?" application (summarised in §16).
@@ -35,4 +36,4 @@ G03 left a residue: movements whose occurrence *and* cause the agent knows witho
 - Taxonomy divergence: Holton files mental causes under "question gets application", contrary to §16.
 - §§10–15 overlap with the 1957 Aristotelian Society paper ([Sandis 2015](../../sources/secondary/sandis-2015-klesis-anscombes-intentions.md)).
 
-† = writer's recollection of the text, not corroborated by the contents line or a saved source; check against the book.
+No † items remain in this group file. The red-stuff example was corroborated in the verification pass from the course-hosted copy of the 1963 text of §§1–18 (http://fitelson.org/proseminar/anscombe.pdf; identifiable as the 1963 text by the variants Sandis records, e.g. "imperative", "most of the earliest historical traditions", "To clarify") and Holton's Lecture II handout. Corrections: "nurse", not "nursemaid"; the music example is in §10.

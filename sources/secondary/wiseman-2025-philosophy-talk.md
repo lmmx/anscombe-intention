@@ -49,7 +49,7 @@ A public-radio philosophy programme in Philosophy Talk's NEH-funded "Wise Women"
 - §4 — sitting in a chair writing: observers can give many true descriptions of intentional action (witness analogy).
 - §§5–6 — "Why?" as the tool; "I didn't see you" as refusal of a description.
 - §§23–26 — pumping/poisoning example (host's loose version); iterated "Why?" widening descriptions (letter to aunt → will).
-- §25 — "roughly speaking, a man intends to do what he does" (quoted by host; Wiseman stresses the qualifier).
+- (§ not given in the broadcast) — "roughly speaking, a man intends to do what he does" (quoted by host; Wiseman stresses the qualifier). Earlier placed at §25 in this file; the transcript does not locate it, and it is not in §4.
 - §27 — against an "inner performance" behind each intentional action.
 - §47 — intention-laden verbs (telephoning, crouching, kicking, dropping, marrying).
 - Caution: no coverage of practical reasoning (§§33–44), practical knowledge (§§45, 48), or future intention (§§50–52).

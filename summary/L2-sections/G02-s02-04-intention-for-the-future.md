@@ -15,7 +15,7 @@
 7. **Against the interior picture (§4).** The sense that an agent is sole authority on his intentions trades on a picture of intention as purely inner; what a man actually does is the first thing to consider — though Anscombe grants that an intention can be complete and purely interior. This motivates the turn to intentional action (§5).
 
 ## Key examples
-- †"I am going to be sick" (prediction) vs. "I am going to take a walk" (intention) (§2); Speaks reports "I am going to fail this exam" as her prediction example.
+- "I am going to be sick" (prediction) vs. "I am going to take a walk" (intention) (§2; corroborated, see [§02](../L3-sections/§02.md) Notes); Speaks reports "I am going to fail this exam" as her prediction example.
 - Commands as descriptions of future action meant to get them done (§2).
 - Someone sitting in a chair writing, whose intentional activity any observer can describe (§4).
 
@@ -38,4 +38,4 @@
 - [Ford, Hornsby & Stoutland 2011](../../sources/secondary/ford-hornsby-stoutland-2011-essays.md): Moran & Stone on expression of intention (special vs. general use); [Teichmann (ed.) 2022](../../sources/secondary/teichmann-2022-oxford-handbook-anscombe.md): Roessler on errors of performance vs. of practical judgement.
 - Edition variants in §2 (1963): see [Sandis 2015](../../sources/secondary/sandis-2015-klesis-anscombes-intentions.md).
 
-† = writer's recollection of the text, not corroborated by the contents line or a saved source; check against the book.
+No † items remain in this group file. The "sick"/"walk" pair (§2) and the leaves image and "some sort of agent" formula (§3) were corroborated in the verification pass from the course-hosted copy of the 1963 text of §§1–18 (http://fitelson.org/proseminar/anscombe.pdf; identifiable as the 1963 text by the variants Sandis records, e.g. "imperative", "most of the earliest historical traditions", "To clarify"); see the Notes in [§02](../L3-sections/§02.md) and [§03](../L3-sections/§03.md).
